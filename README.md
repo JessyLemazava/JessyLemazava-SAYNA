@@ -1,2 +1,3 @@
 # JessyLemazava-SAYNA
-I'm a web developer 
+
+I'm student from SAYNA 
